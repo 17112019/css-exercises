@@ -45,9 +45,9 @@ button {
   color: white;
   padding: 8px 24px;
   display: flex;
-  justify-content: right;
+  justify-content: center;
   align-items: center;
-  padding: 2px 15px 5px ;
+  padding: 6px 15px 6px ;
   margin: 10px 10px 30px 700px;
 
 }
